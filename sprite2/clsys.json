@@ -1,0 +1,68 @@
+{
+  "rocket": {
+    "name": "",
+    "mass": null,
+    "oil_mass": null,
+    "x": null,
+    "y": null,
+    "vx": null,
+    "vy": null,
+    "waste": null,
+    "ux": null,
+    "uy": null,
+    "scale": 1
+  },
+  "animas": {
+    "name": null,
+    "mass": null,
+    "x": null,
+    "y": null,
+    "angle": null,
+    "iterration": null,
+    "vx": null,
+    "vy": null,
+    "scale": null
+  },
+  "rockets": [
+
+  ],
+  "planets": [
+    {
+      "name": "ice",
+      "mass": [6,23],
+
+      "x": [0,1],
+      "y": [57.9,9],
+      "angle": 0,
+      "iterration": 1,
+      "vx": 47000,
+      "vy": 0,
+      "scale": 1280000
+    },
+     {
+      "name": "dry",
+      "mass": [6.4,23],
+
+      "x": [2.25,11],
+      "y": [0,9],
+      "angle": 0,
+      "iterration": 1,
+      "vx": 0,
+      "vy": 24000,
+      "scale": 1280000
+    },
+
+
+    {
+      "name": "star",
+      "mass": [1.9885,30],
+      "x": [0,0],
+      "y": [0,0],
+      "angle": 0,
+      "iterration": 1,
+      "vx": 0,
+      "vy": 0,
+      "scale": 128000000
+    }
+  ]
+}
